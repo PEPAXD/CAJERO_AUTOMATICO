@@ -1,0 +1,1 @@
+Para ejecutar el programa debera inicializar el archivo GUI.JAVA
